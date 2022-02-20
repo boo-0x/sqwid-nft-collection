@@ -2,6 +2,7 @@
 
 Generative art collection with 999 unique items.
 
+![collection](collection-preview.png)
 
 **IPFS metadata URI:**
 ```
